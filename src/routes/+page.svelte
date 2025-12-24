@@ -238,7 +238,7 @@
    .fields {
       display: flex;
       flex-direction: column;
-      width: 500px;
+      width: 300px;
    }
 
    .spins {
