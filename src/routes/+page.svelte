@@ -133,7 +133,7 @@
       -webkit-background-clip: text; /* Clips the background to the text */
       background-clip: text; /* Clips the background to the text */
       -webkit-text-fill-color: transparent;
-      margin: 40px;
+      margin: 30px;
    }
    .win {
       animation: win 0.6s;
