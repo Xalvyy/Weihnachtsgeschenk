@@ -265,8 +265,4 @@
    #spin-button:not(.pressed) {
       box-shadow: rgb(161, 96, 11) 0px 10px;
    }
-   #spin-button:hover:not(.pressed) {
-      transform: translateY(-10px);
-      box-shadow: rgb(161, 96, 11) 0px 20px;
-   }
 </style>
